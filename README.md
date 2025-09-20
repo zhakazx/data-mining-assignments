@@ -1,7 +1,3 @@
-# data-mining-assignments
-
-Tugas Matakuliah Data Mining
-
 # Data Mining Assignments
 
 Repositori tugas mata kuliah Data Mining.
